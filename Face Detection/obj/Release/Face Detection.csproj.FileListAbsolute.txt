@@ -1,0 +1,22 @@
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\haarcascade_frontalface_alt_tree.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Face Detection.exe.config
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Face Detection.exe
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Face Detection.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\AForge.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\AForge.Video.DirectShow.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\AForge.Video.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Emgu.CV.Platform.NetFramework.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Emgu.CV.Platform.NetStandard.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\AForge.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\AForge.Video.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\AForge.Video.DirectShow.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Emgu.CV.Platform.NetFramework.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Release\Emgu.CV.Platform.NetStandard.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face Detection.csprojAssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face_Detection.Main.resources
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face_Detection.Properties.Resources.resources
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face Detection.csproj.GenerateResource.cache
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face Detection.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face Detection.csproj.CopyComplete
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face Detection.exe
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Release\Face Detection.pdb

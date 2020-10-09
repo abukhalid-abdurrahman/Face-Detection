@@ -1,0 +1,49 @@
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Face Detection.exe.config
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Face Detection.exe
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Face Detection.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\AForge.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\AForge.Video.DirectShow.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\AForge.Video.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\AForge.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\AForge.Video.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\AForge.Video.DirectShow.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face_Detection.Properties.Resources.resources
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face Detection.csproj.GenerateResource.cache
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face Detection.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face Detection.csproj.CopyComplete
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face Detection.exe
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face Detection.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\haarcascade_frontalface_alt_tree.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x64\concrt140.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x64\cvextern.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x64\msvcp140.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x64\vcruntime140.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x86\concrt140.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x86\cvextern.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x86\msvcp140.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\x86\vcruntime140.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Emgu.CV.World.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\ZedGraph.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Emgu.CV.UI.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\Emgu.CV.World.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\ZedGraph.xml
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\de\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\es\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\fr\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\hu\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\it\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\ja\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\pt\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\ru\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\sk\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\sv\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\tr\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face Detection.csprojAssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face_Detection.FaceCamera.resources
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face_Detection.FaceImage.resources
+E:\Faridun's Projects\Faridun's\Back-End\Forms\FaceDetection\Face Detection\Face Detection\obj\Debug\Face_Detection.Menu.resources
